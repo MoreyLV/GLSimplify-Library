@@ -64,6 +64,8 @@ render.draw(mesh, shader);<br>
 <br><br>
 The full example is available in examples/triangle.
 
+---
+
 ##🎯 Project Goals
 
 Simplify getting started with OpenGL
@@ -72,15 +74,21 @@ Create a clear architecture for learning
 
 Gradually expand functionality (cameras, matrices, lighting, textures)
 
+---
+
 ##📌 Project Status
 
 Version: v0.1.0
 The project is under active development.
 
+---
+
 ##📜 License
 
 The project is distributed under the MIT License.
 See the LICENSE file for details.
+
+---
 
 ##👤 Author
 
