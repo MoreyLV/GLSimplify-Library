@@ -66,7 +66,7 @@ The full example is available in examples/triangle.
 
 ---
 
-##🎯 Project Goals
+## 🎯 Project Goals
 
 Simplify getting started with OpenGL
 
@@ -76,7 +76,7 @@ Gradually expand functionality (cameras, matrices, lighting, textures)
 
 ---
 
-##📌 Project Status
+## 📌 Project Status
 
 Version: v0.1.0
 The project is under active development.
@@ -90,7 +90,7 @@ See the LICENSE file for details.
 
 ---
 
-##👤 Author
+## 👤 Author
 
 Morey
 Junior C++ / Graphics / OpenGL Developer
