@@ -20,13 +20,13 @@ The project is designed as a learning and practical library with a clean archite
 
 ## 📦 Project Structure
 GLSimplify/
-├── include/gls/ # Library public API
-├── src/ # Implementation
-├── src/backends/ # Backend (SFML)
-├── external/ # External dependencies (glad)
-├── assets/shaders/ # Shader examples
-├── examples/ # Usage Examples
-└── CMakeLists.txt
+  include/gls/ # Library public API
+  src/ # Implementation
+    src/backends/ # Backend (SFML)
+  external/ # External dependencies (glad)
+  assets/shaders/ # Shader examples
+  examples/ # Usage Examples
+ CMakeLists.txt
 
 ---
 
