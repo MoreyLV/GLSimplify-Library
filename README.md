@@ -52,7 +52,10 @@ cd build<br>
 cmake ..<br>
 cmake --build .<br>
 <br><br>
-##▶ Usage Example<br><br>
+
+---
+
+## ▶ Usage Example<br><br>
 gls::Window window(900, 450, "GLSimplify");<br>
 gls::Shader shader("basic.vert", "basic.frag");<br>
 <br><br>
@@ -83,7 +86,7 @@ The project is under active development.
 
 ---
 
-##📜 License
+## 📜 License
 
 The project is distributed under the MIT License.
 See the LICENSE file for details.
