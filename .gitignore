@@ -1,0 +1,20 @@
+# build
+build/
+cmake-build-*/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# binaries
+*.exe
+*.dll
+*.so
+*.a
+*.lib
