@@ -44,24 +44,24 @@ All dependencies except SFML are already included in the repository.
 ## 🚀 Build
 
 ### Windows / Linux / macOS
-
-git clone https://github.com/MoreyLV/GLSimplify-Library.git
-cd GLSimplify-Library
-mkdir build
-cd build
-cmake ..
-cmake --build .
-
-##▶ Usage Example
-gls::Window window(900, 450, "GLSimplify");
-gls::Shader shader("basic.vert", "basic.frag");
-
-while (window.isOpen()) {
-window.update();
-window.clear(0.1f, 0.1f, 0.1f, 1.0f);
-render.draw(mesh, shader);
-}
-
+<br><br>
+git clone https://github.com/MoreyLV/GLSimplify-Library.git<br>
+cd GLSimplify-Library<br>
+mkdir build<br>
+cd build<br>
+cmake ..<br>
+cmake --build .<br>
+<br><br>
+##▶ Usage Example<br><br>
+gls::Window window(900, 450, "GLSimplify");<br>
+gls::Shader shader("basic.vert", "basic.frag");<br>
+<br><br>
+while (window.isOpen()) {<br>
+window.update();<br>
+window.clear(0.1f, 0.1f, 0.1f, 1.0f);<br>
+render.draw(mesh, shader);<br>
+}<br>
+<br><br>
 The full example is available in examples/triangle.
 
 ##🎯 Project Goals
